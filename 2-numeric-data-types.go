@@ -12,6 +12,8 @@
  * - int is Minimal int32
  * - uint is Minimal uint32
  *
+ * More about golang data type : https://www.tutorialspoint.com/go/go_data_types.htm
+ *
  */
 
 package main
